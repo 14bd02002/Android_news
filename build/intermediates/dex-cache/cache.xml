@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\1b3c72f8bd29c8fac0ed5ba4520b46c59c4f898c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="E:\Chrome\Downloads\android_java_newasapp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df593f29767a376bc5c75e2dc7698dc0cc31bfa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\3cb54dc3b9823b424dd69b600fdaf6674a3d31d8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd57e6d90e63921172b30ca28af527267e6d213d">
+        <dex dex="E:\Chrome\Downloads\android_java_newasapp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca49c0a3e80722c87de8e07f671895b678831c15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\cce226b0a2d14daac7f46038ed9dcfa41fa482a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="E:\Chrome\Downloads\android_java_newasapp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_00feba377c0d7794190673b2e515cf23e3823c30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.gradle\caches\modules-2\files-2.1\android.arch.persistence.room\common\1.0.0-alpha1\4fb1be8519a8e9d931945beaee734dd7c1691462\common-1.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4fb1be8519a8e9d931945beaee734dd7c1691462">
+        <dex dex="E:\Chrome\Downloads\android_java_newasapp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0-alpha1_3cefd58b3290254d19765c60cae69d4e291183f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\684408db2c64fbaf3c7a638db6924272bcb8a9c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\Chrome\Downloads\android_java_newasapp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9174c3875edf61111b7434709bae0cf5f2633a47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\042b43a589e4e9af662d5c51415516fc65208aa7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8aa1017a9d855f7071d9f47ae563f1dc45730b74">
+        <dex dex="E:\Chrome\Downloads\android_java_newasapp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd3182437e3266873e6379dc3ec10096c88a6852\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\baac55f8d1d6ea2cb9feddf27b5506d99e053a99\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f80ef3e88d53cd67f09ae860e9e95967108f5cb2">
+        <dex dex="E:\Chrome\Downloads\android_java_newasapp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92dadacc948f1d2fd01746fa4305cfb6653af23b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Chrome\Downloads\android_java_newasapp-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="244f7970084ea277b06d55569c9c96a0481efc6c">
+        <dex dex="E:\Chrome\Downloads\android_java_newasapp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5b979de923d4909c35f723c3061d4f31ca529987\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Chrome\Downloads\android_java_newasapp-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Chrome\Downloads\android_java_newasapp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_db1450134c08f2f703dd2d43be53331e6c48dd29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\9defbc1466df729c14bcfd949c502000edc4250c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="13b31fe5f2e97c9fa36b4716cf32c59afb5603b4">
+        <dex dex="E:\Chrome\Downloads\android_java_newasapp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ee83daf8249566d3f8cd8810626de2b1c80bef7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\7c3ad492842062a4b65fdc8e45407c3d74ccb651\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\Chrome\Downloads\android_java_newasapp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_958d7bb79ff593ef6edbf69f0e1a005bd6c12122\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.android\build-cache\ea3093444bb49a139b935eecb75c3574b4d6468c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="E:\Chrome\Downloads\android_java_newasapp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_168ba9b63163ff6bd73d911323956e95a6c256d4\classes.dex" />
+    </item>
+
+</items>
